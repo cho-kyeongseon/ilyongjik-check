@@ -1,0 +1,34 @@
+# 원본 데이터 파일 (고객 자료 — GitHub에 올리지 않음)
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.zip
+*.pdf
+data/
+원본/
+원본자료/
+output/
+결과/
+
+# 엑셀 임시 파일
+~$*
+
+# 큰 파일·미디어
+*.mp4
+*.mov
+*.iso
+*.7z
+*.rar
+
+# Vercel / 도구
+.vercel/
+node_modules/
+.env
+.env.*
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+System Volume Information/
